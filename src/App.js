@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
+
+// Estil CSS
 import './App.css';
 
 import Header from './components/Header.js';
